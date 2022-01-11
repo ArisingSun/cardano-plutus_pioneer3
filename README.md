@@ -91,6 +91,4 @@ to push use git push -u origin feature-readme
 what is a PR? a request to have code pulled into a nother branch. example putting feature branch into main branch. 
 
 ## Deleting Branches
-git branch -d *branch name*  // also to use -D if you havent merged. 
-
-1. have fun!
+git branch -d *branch name*  // also to use -D if you havent merged.
