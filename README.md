@@ -82,3 +82,9 @@ git checkout -b *insertbranchname* : breaks out of the current branch and create
 git checkout *insertexistingbranchname* : switches to named branch.
 
 1. Open index.html in your browser.
+
+to push use git push -u origin feature-readme
+
+## Creating Pull Requests
+
+what is a PR? a request to have code pulled into a nother branch. example putting feature branch into main branch. 
