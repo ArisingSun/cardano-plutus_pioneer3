@@ -70,3 +70,15 @@ Example: git push origin main
 is a secure key to allow ur local machine to connect to ur git hub account. 
 u secure a private key and public key.
 to learn how to set it up look up more info on youtube. also do not use ctrl C to copy in the terminal as  that means something different.
+
+
+## Branch Developmet and commands
+
+branch devlopment is a way to develope the same code on a seperate sandbox so to speak in order to not ruin or bug up the main code that is already functional.
+
+Command list
+git branch: shows the number of branches as well as what branch you are on with *
+git checkout -b *insertbranchname* : breaks out of the current branch and creates a new one.
+git checkout *insertexistingbranchname* : switches to named branch.
+
+1. Open index.html in your browser.
