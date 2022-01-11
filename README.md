@@ -7,7 +7,7 @@ First Day
 learning GitHub And Setting Up Plutus Pioneer for tomorrows Lecture. 
 
 
-## Subheader
+## Update Be sure to ctrl save ur work before adding and commiting!
 
 Just learned SSH and setting it up and the .git
 After setting up the SSH use command git clone and copy past the ssh id and hit enter to see ur repo from github into the directory your in
