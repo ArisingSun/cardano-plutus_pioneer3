@@ -93,3 +93,4 @@ what is a PR? a request to have code pulled into a nother branch. example puttin
 ## Deleting Branches
 git branch -d *branch name*  // also to use -D if you havent merged. 
 
+1. have fun!
