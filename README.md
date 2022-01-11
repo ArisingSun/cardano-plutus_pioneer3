@@ -53,6 +53,7 @@ press enter and command git status again youll see new file is tracked!
 one all files are tracked then you can commit these files to git
 you must type:
 git commit -m
+git commit -am *adds and messages at the sama time*
 -m = message and must be added and must be relavant to what you changed. 
 example: git commit -m "Updated README and experimented with HTML file" 
 OPTIONAL: you can use -m again to add a description to the end of ur message.
@@ -91,3 +92,4 @@ what is a PR? a request to have code pulled into a nother branch. example puttin
 
 ## Deleting Branches
 git branch -d *branch name*  // also to use -D if you havent merged. 
+
