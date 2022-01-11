@@ -6,6 +6,11 @@ First Day
 
 learning GitHub And Setting Up Plutus Pioneer for tomorrows Lecture. 
 
+## CD command
+
+example: cd ../test-repo 
+
+this switches the termal to target folder test-repo
 
 ## Update Be sure to ctrl save ur work before adding and commiting!
 
